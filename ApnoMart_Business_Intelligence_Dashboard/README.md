@@ -49,6 +49,7 @@ Focus on profitable growth by maintaining inventory for strong-selling products,
 
 - `ApnoMart_Executive_Dashboard.pbix` — Power BI dashboard file
 - `dashboard.png` — Dashboard screenshot
+- `profitability-analysis.png` — Profitability analysis dashboard screenshot
 - `insights.pdf` — Strategic insights report
 - `README.md` — Project documentation
 
