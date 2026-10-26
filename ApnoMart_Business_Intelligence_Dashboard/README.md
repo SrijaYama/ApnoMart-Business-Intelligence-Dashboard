@@ -15,7 +15,7 @@ The objective is to analyze sales, profit, product categories, regional performa
 
 ## Dataset Summary
 
-The dataset contains 1,200 sales records covering May 1 to October 28, 2026.
+The dataset contains 1,200 sales records covering May 1 to October 26, 2026.
 
 - **Total Sales:** ₹1,62,61,998.30
 - **Total Profit:** ₹44,19,736.17
